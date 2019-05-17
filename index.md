@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/vatscope/vatscope.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### VatScope
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+VatScope is a tool to view online information of VATSIM network.
 
-### Markdown
+[![Download on the App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://itunes.apple.com/app/vatscope/id1303293807)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Privacy Policy
 
-```markdown
-Syntax highlighted code block
+VatScope will not collect or store your information in any form.
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vatscope/vatscope.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact me via mic12130@gmail.com if you have any trouble or question with VatScope.
