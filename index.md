@@ -8,4 +8,6 @@ VatScope is a tool to view online information of VATSIM network.
 
 ### Privacy Policy
 
-VatScope will not collect or store your information in any form.
+VatScope itself will not collect or store your information in any form.
+
+For the anonymous data collected by Mapbox SDK, please visit https://www.mapbox.com/legal/privacy
