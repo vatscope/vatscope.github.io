@@ -1,5 +1,7 @@
 # VatScope
 
+VatScope is a tool to view online information of VATSIM network.
+
 ### Download
 
 VatScope is available on the App Store.
