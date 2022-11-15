@@ -1,5 +1,3 @@
-## VatScope
-
 ### Download
 
 VatScope is available on the App Store.
