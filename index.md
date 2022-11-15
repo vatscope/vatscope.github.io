@@ -2,7 +2,7 @@
 
 ### Download
 
-VatScope is a tool to view online information of VATSIM network.
+VatScope is available on the App Store.
 
 [![Download on the App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://itunes.apple.com/app/vatscope/id1303293807)
 
